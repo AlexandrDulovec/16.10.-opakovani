@@ -1,0 +1,21 @@
+ID zaměstnance: 1
+Jméno: Alexandr
+Příjmení: Dulovec
+Pozice: borec
+Email: alexandr.dulovec@student.ossp.cz
+Označení kanceláře: A101
+------------------------------
+ID zaměstnance: 2
+Jméno: Filip
+Příjmení: Zatáčka
+Pozice: Řidič
+Email: filip.zatacka@gmail.com
+Označení kanceláře: A101
+------------------------------
+ID zaměstnance: 3
+Jméno: Milan
+Příjmení: Švanda
+Pozice: Bezdomovec
+Email: milan.svanda@gmail.com
+Označení kanceláře: B202
+------------------------------
